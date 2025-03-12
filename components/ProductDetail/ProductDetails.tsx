@@ -50,7 +50,7 @@ export default function ProductDetails() {
         <div className="flex items-center gap-4 mb-6">
           <span className="text-gray-700">4K+ sold</span>
           <div className="flex items-center">
-            <span className="mr-1"><Image src={"/icons/star.png"} alt={"Star"} height={15} width={15}/></span>
+            <span className="mr-1"><Image src={"/Icons/star.png"} alt={"Star"} height={15} width={15}/></span>
             <span className="font-medium">4.8</span>
             <span className="text-gray-500 ml-1">(156 reviews)</span>
           </div>
