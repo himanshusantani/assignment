@@ -2,7 +2,7 @@ import Image from 'next/image';
 import React from 'react';
 
 // Assume we have a star.png in the public folder
-const starIcon = "/icons/star.png";
+const starIcon = "/Icons/star.png";
 
 interface Review {
   id: number;
